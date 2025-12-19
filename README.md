@@ -47,9 +47,7 @@ To get a string type argument you will use `strFlag`.
 #### Example:
 
 ```rust
-let name = SCLP::strFlag::new("name")
-.setDefault("john".to_string())
-.setHelp("Your name.");
+let name = SCLP::strFlag::new("name").setDefault("john".to_string()).setHelp("Your name.");
 ```
 
 ```shell
