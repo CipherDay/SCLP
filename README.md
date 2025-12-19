@@ -213,9 +213,7 @@ Currently there are no way to change the help message.
 
 ## Notice:
 
-This library is for learning purposes only iam planning to make future updates for it as I get better at rust but
-nothing
-to promise.
+This library is for learning purposes only I am planning to make future updates for it as I get better at rust but nothing to promis.
 
 
 
