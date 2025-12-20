@@ -7,7 +7,7 @@ SCLP is inspired by the Golang [flag](https://pkg.go.dev/flag) package.
 ## Example:
 
 ```rust
-use SCLP::Flag;
+use SCLP::*;
 
 fn main() {
     let name = SCLP::strFlag::new("name")
@@ -182,7 +182,7 @@ Every flag should start with `--`.Any flag not starting with `--` is ignored.
 ### Example:
 
 ```rust
-use SCLP::Flag;
+use SCLP::*;
 
 fn main() {
     let name = SCLP::strFlag::new("name")
