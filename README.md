@@ -177,7 +177,7 @@ setting default value with `.setDefault()`) and the user not providing the argum
 
 ## Flag format:
 
-Every flag should start with `--`.
+Every flag should start with `--`.Any flag not starting with `--` is ignored.
 
 ### Example:
 
@@ -213,7 +213,8 @@ Currently there are no way to change the help message.
 
 ## Notice:
 
-This library is for learning purposes only I am planning to make future updates for it as I get better at rust but nothing to promis.
+This library is for learning purposes only I am planning to make future updates for it as I get better at rust but
+nothing to promis.
 
 
 
