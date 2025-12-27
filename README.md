@@ -1,6 +1,13 @@
-# SCLP (Simple Command Line Parser):
+<div align="center">
+<h1>SCLP</h1>
 
-**SCLP** is very simple lightweight rust command line parser with **Zero** dependencies.  
+---
+
+<strong>📦 Simple Command Line Parser</strong>
+</div>
+<br />
+
+**SCLP** is very simple lightweight rust command line parser with **Zero** external dependencies.  
 SCLP was built as learning project for me to learn the programing language [Rust](https://rust-lang.org/).  
 SCLP is inspired by the Golang [flag](https://pkg.go.dev/flag) package.
 

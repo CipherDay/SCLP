@@ -1,6 +1,11 @@
 [package]
 name = "SCLP"
-version = "1.0.0"
+version = "1.1.0"
 edition = "2024"
+description = "Simple Command Line Parser Built with Rust."
+authors = ["CipherDay"]
+readme = "README.md"
+license = "MIT"
+repository = "https://github.com/CipherDay/SCLP"
 
 [dependencies]
