@@ -1,9 +1,11 @@
+<h1 align="center">SCLP</h1>
 <div align="center">
-<h1>SCLP</h1>
-
----
-
 <strong>📦 Simple Command Line Parser</strong>
+</div>
+<br />
+<div align="center">
+  <a href="https://github.com/CipherDay/SCLP/actions/workflows/SCLP.yml?query=branch%3Amain">
+    <img src="https://img.shields.io/github/actions/workflow/status/CipherDay/SCLP/SCLP.yml?branch=main&style=flat-square" alt="Build status" /></a>
 </div>
 <br />
 
