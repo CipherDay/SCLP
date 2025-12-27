@@ -5,7 +5,11 @@
 <br />
 <div align="center">
   <a href="https://github.com/CipherDay/SCLP/actions/workflows/SCLP.yml?query=branch%3Amain">
-    <img src="https://img.shields.io/github/actions/workflow/status/CipherDay/SCLP/SCLP.yml?branch=main&style=flat-square" alt="Build status" /></a>
+    <img src="https://img.shields.io/github/actions/workflow/status/CipherDay/SCLP/SCLP.yml?branch=main&style=flat-square" alt="Build status" />
+  </a>
+  <a href="https://crates.io/crates/SCLP">
+    <img src="https://img.shields.io/crates/v/SCLP.svg?style=flat-square" alt="crates.io" />
+  </a>
 </div>
 <br />
 
